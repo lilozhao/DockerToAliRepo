@@ -1,4 +1,6 @@
-postgres:15-alpine
+langgenius/dify-api:0.8.3
+langgenius/dify-web:0.8.3
+#postgres:15-alpine
 #redis:7.4.1
 #nginx:1.27.2
 #mysql:8.4.3
