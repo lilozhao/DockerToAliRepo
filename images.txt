@@ -14,12 +14,10 @@
 #milvusdb/milvus:v2.3.1
 #opensearchproject/opensearch:latest
 #opensearchproject/opensearch-dashboards:latest
-
-docker.elastic.co/elasticsearch/elasticsearch:8.15.1
-docker.elastic.co/kibana/kibana:8.15.1
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
-myscale/myscaledb:1.6.4
-
+#docker.elastic.co/elasticsearch/elasticsearch:8.15.1
+#docker.elastic.co/kibana/kibana:8.15.1
+#downloads.unstructured.io/unstructured-io/unstructured-api:latest
+myscaledb:1.6.4
 #langgenius/dify-api:0.8.3
 #langgenius/dify-web:0.8.3
 #postgres:15-alpine
