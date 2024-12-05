@@ -1,3 +1,10 @@
+######################################
+infiniflow/ragflow:dev-slim
+#docker.elastic.co/elasticsearch/elasticsearch
+infiniflow/infinity:v0.5.0-dev5
+valkey/valkey:8
+#mysql:8.0.39
+#####################################
 #redis:6-alpine
 #langgenius/dify-sandbox:0.2.9
 #ubuntu/squid:latest
