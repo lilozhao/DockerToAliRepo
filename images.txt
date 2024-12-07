@@ -1,6 +1,6 @@
 ######################################
 #infiniflow/ragflow:dev-slim
-#docker.elastic.co/elasticsearch/elasticsearch
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 #infiniflow/infinity:v0.5.0-dev5
 #valkey/valkey:8
 mysql:8.0.39
