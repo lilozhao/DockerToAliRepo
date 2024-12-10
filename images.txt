@@ -1,4 +1,5 @@
-docker.all-hands.dev/all-hands-ai/runtime:0.13-nikolaik
+#docker.all-hands.dev/all-hands-ai/runtime:0.13-nikolaik
+docker.all-hands.dev/all-hands-ai/openhands:0.13
 ######################################
 #infiniflow/ragflow:dev-slim
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.3
