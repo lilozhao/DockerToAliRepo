@@ -1,9 +1,10 @@
+docker.all-hands.dev/all-hands-ai/runtime:0.13-nikolaik
 ######################################
 #infiniflow/ragflow:dev-slim
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 #infiniflow/infinity:v0.5.0-dev5
 #valkey/valkey:8
-mysql:8.0.39
+#mysql:8.0.39
 #####################################
 #redis:6-alpine
 #langgenius/dify-sandbox:0.2.9
