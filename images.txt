@@ -1,4 +1,4 @@
-python:3.9-slim
+docker.io/library/python:3.9-slim
 #docker.all-hands.dev/all-hands-ai/runtime:0.13-nikolaik
 #docker.all-hands.dev/all-hands-ai/openhands:0.13
 ######################################
