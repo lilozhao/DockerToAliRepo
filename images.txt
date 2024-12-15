@@ -1,5 +1,7 @@
-qingcloudtech/comfyui:v1.0
-pytorch/pytorch:2.2.1-cuda12.1-cudnn8-runtime
+#qingcloudtech/comfyui:v1.0
+comfyui:v1.0
+#pytorch/pytorch:2.2.1-cuda12.1-cudnn8-runtime
+############################################
 #redis:latest
 #mysql:8.2
 #calciumion/new-api:latest
