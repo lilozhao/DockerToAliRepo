@@ -1,4 +1,5 @@
-docker.io/library/python:3.9-slim
+calciumion/new-api:latest
+#docker.io/library/python:3.9-slim
 #docker.all-hands.dev/all-hands-ai/runtime:0.13-nikolaik
 #docker.all-hands.dev/all-hands-ai/openhands:0.13
 ######################################
@@ -31,9 +32,7 @@ docker.io/library/python:3.9-slim
 #langgenius/dify-api:0.8.3
 #langgenius/dify-web:0.8.3
 #postgres:15-alpine
-#redis:7.4.1
 #nginx:1.27.2
-#mysql:8.4.3
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #redis
