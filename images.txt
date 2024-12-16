@@ -1,9 +1,11 @@
-pgvector/pgvector:0.7.0-pg15
-mongo:5.0.18
-ghcr.io/labring/fastgpt-sandbox:latest
-ghcr.io/labring/fastgpt:v4.8.9
-mysql:8.0.36
-ghcr.io/songquanpeng/one-api:v0.6.7
+ghcr.io/open-webui/open-webui:main
+#########################################
+#pgvector/pgvector:0.7.0-pg15
+#mongo:5.0.18
+#ghcr.io/labring/fastgpt-sandbox:latest
+#ghcr.io/labring/fastgpt:v4.8.9
+#mysql:8.0.36
+#ghcr.io/songquanpeng/one-api:v0.6.7
 ##########################################
 #docker.io/justsong/one-api:latest
 #docker.io/redis:latest
