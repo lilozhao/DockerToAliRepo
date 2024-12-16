@@ -1,4 +1,8 @@
-cr2.fit2cloud.com/1panel/maxkb
+docker.io/justsong/one-api:latest
+docker.io/redis:latest
+docker.io/mysql:8.2.0
+######################################
+#cr2.fit2cloud.com/1panel/maxkb
 #############################################
 #qingcloudtech/comfyui:v1.0
 #comfyui:v1.0
