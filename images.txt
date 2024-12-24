@@ -1,4 +1,7 @@
-ghcr.io/swivid/f5-tts:main
+pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
+pytorch/pytorch:2.3.1-cuda11.8-cudnn8-runtime
+###########################################
+#ghcr.io/swivid/f5-tts:main
 ###########################################
 #ghcr.io/open-webui/open-webui:main
 #########################################
