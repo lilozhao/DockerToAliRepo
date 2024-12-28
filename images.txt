@@ -1,4 +1,4 @@
-#registry.cn-beijing.aliyuncs.com/codewithgpu2/kedreamix-linly-talker:v1 
+registry.cn-beijing.aliyuncs.com/codewithgpu2/kedreamix-linly-talker:cMDvNE4RYl
 #####################################################
 debian:bookworm-slim
 swaggerapi/swagger-ui:v5.9.1
