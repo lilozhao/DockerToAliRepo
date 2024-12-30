@@ -1,6 +1,11 @@
-#################################33
-postgres
-python:3.11
+openeuler/openeuler:22.03
+centos:centos7
+centos:centos8
+registry.openanolis.cn/openanolis/anolisos:8.6
+homebrew/ubuntu22.04
+#################################
+#postgres
+#python:3.11
 ################################################
 #registry.cn-beijing.aliyuncs.com/codewithgpu2/kedreamix-linly-talker:cMDvNE4RYl
 #####################################################
