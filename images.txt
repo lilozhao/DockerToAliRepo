@@ -1,5 +1,5 @@
-bolt-ai:production
-bolt-ai:development
+bolt-ai
+#bolt-ai:development
 ##################################################
 #calciumion/new-api
 #####################################################
