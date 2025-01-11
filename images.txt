@@ -1,4 +1,6 @@
-xcatliu/chatgpt-next:latest
+calciumion/new-api
+#####################################################
+#xcatliu/chatgpt-next:latest
 #postgres
 ##################Kubernetes######################
 #k8s.gcr.io/kube-apiserver:v1.20.0
