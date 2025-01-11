@@ -1,4 +1,7 @@
-calciumion/new-api
+bolt-ai:production
+bolt-ai:development
+##################################################
+#calciumion/new-api
 #####################################################
 #xcatliu/chatgpt-next:latest
 #postgres
