@@ -1,4 +1,5 @@
-bolt-ai
+node:20.18.0
+#bolt-ai
 #bolt-ai:development
 ##################################################
 #calciumion/new-api
