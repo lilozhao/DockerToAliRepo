@@ -1,7 +1,11 @@
+##############chatnio--AIGC一站式商业解决方案#############
+mysql:latest
+redis:latest
+programzmh/chatnio
 ##################smart-finance-bot#####################
-node:16
-python:3.10
-python:3.10-slim
+#node:16
+#python:3.10
+#python:3.10-slim
 #############bolt-ai bolt-new bolt-diy#################
 #node:20.18.0
 #bolt-ai
