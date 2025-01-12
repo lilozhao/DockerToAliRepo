@@ -1,9 +1,14 @@
-node:20.18.0
+##################smart-finance-bot#####################
+node:16
+python:3.10
+python:3.10-slim
+#############bolt-ai bolt-new bolt-diy#################
+#node:20.18.0
 #bolt-ai
 #bolt-ai:development
-##################################################
+#########################new-api#########################
 #calciumion/new-api
-#####################################################
+########################chatgpt-next####################
 #xcatliu/chatgpt-next:latest
 #postgres
 ##################Kubernetes######################
@@ -49,7 +54,7 @@ node:20.18.0
 #pytorch/pytorch:2.3.1-cuda11.8-cudnn8-runtime
 ##################f5-tts#########################
 #ghcr.io/swivid/f5-tts:main
-##################open-webui#########################
+##################open-webui#####################
 #ghcr.io/open-webui/open-webui:main
 ###################fastgpt######################
 #pgvector/pgvector:0.7.0-pg15
@@ -58,7 +63,7 @@ node:20.18.0
 #ghcr.io/labring/fastgpt:v4.8.9
 #mysql:8.0.36
 #ghcr.io/songquanpeng/one-api:v0.6.7
-##################one-api########################
+##################one-api######################
 #docker.io/justsong/one-api:latest
 #docker.io/redis:latest
 #docker.io/mysql:8.2.0
@@ -95,7 +100,7 @@ node:20.18.0
 #container-registry.oracle.com/database/free:latest
 #quay.io/coreos/etcd:v3.5.5
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
-########################################
+###################First older#####################
 #milvusdb/milvus:v2.3.1
 #opensearchproject/opensearch:latest
 #opensearchproject/opensearch-dashboards:latest
