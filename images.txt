@@ -1,10 +1,10 @@
-####vllm的docker#########################################
-nvidia/cuda:12.4.1-devel-ubuntu20.04
-nvidia/cuda:12.4.1-base-ubuntu22.04
+#############vllm的docker###############################
+#nvidia/cuda:12.4.1-devel-ubuntu20.04
+#nvidia/cuda:12.4.1-base-ubuntu22.04
 ##############chatnio--AIGC一站式商业解决方案#############
-mysql:latest
-redis:latest
-programzmh/chatnio
+#mysql:latest
+#redis:latest
+#programzmh/chatnio
 ##################smart-finance-bot#####################
 #node:16
 #python:3.10
