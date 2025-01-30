@@ -1,3 +1,5 @@
+#################ComfyUI的docker安装####################
+dockerproxy.net/yanwk/comfyui-boot:cu124-cn
 #############vllm的docker###############################
 #nvidia/cuda:12.4.1-devel-ubuntu20.04
 #nvidia/cuda:12.4.1-base-ubuntu22.04
