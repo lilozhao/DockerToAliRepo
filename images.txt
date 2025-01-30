@@ -1,3 +1,6 @@
+####vllm的docker#########################################
+nvidia/cuda:12.4.1-devel-ubuntu20.04
+nvidia/cuda:12.4.1-base-ubuntu22.04
 ##############chatnio--AIGC一站式商业解决方案#############
 mysql:latest
 redis:latest
