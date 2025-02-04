@@ -1,5 +1,7 @@
+################gpt-sovits的TTS#######################
+breakstring/gpt-sovits:latest
 ###############windows + docker下使用GPU##########################
-nvcr.io/nvidia/k8s/cuda-sample:nbody 
+#nvcr.io/nvidia/k8s/cuda-sample:nbody 
 #################ComfyUI的docker安装####################
 #dockerproxy.net/yanwk/comfyui-boot:cu124-cn
 #############vllm的docker###############################
