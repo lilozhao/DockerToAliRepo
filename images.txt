@@ -1,5 +1,5 @@
 ###################DeepSeek##################
-deepseek-ai/deepseek-r1-7b-chat
+deepseek-r1:7b
 ################gpt-sovits的TTS#######################
 #breakstring/gpt-sovits:latest
 ###############windows + docker下使用GPU##########################
