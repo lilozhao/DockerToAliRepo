@@ -1,5 +1,7 @@
+###################DeepSeek##################
+deepseek-ai/deepseek-r1-7b-chat
 ################gpt-sovits的TTS#######################
-breakstring/gpt-sovits:latest
+#breakstring/gpt-sovits:latest
 ###############windows + docker下使用GPU##########################
 #nvcr.io/nvidia/k8s/cuda-sample:nbody 
 #################ComfyUI的docker安装####################
