@@ -1,6 +1,8 @@
+###################xiaozhi-esp32-server#############
+ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:latest
 ###################DeepSeek##################
 ##deepseek-r1:1.5b
-deepseek-ai/deepseek-r1-7b-chat
+#deepseek-ai/deepseek-r1-7b-chat
 ################gpt-sovits的TTS#######################
 #breakstring/gpt-sovits:latest
 ###############windows + docker下使用GPU##########################
