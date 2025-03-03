@@ -1,6 +1,9 @@
+################DeepClaude################
+rust:latest
+debian:bookworm-slim
 ######################DeepSeek RAG Chatbot 3.0###
-python:3.11-buster
-#ghcr.io/jmorganca/ollama:latest
+#python:3.11-buster
+#####ghcr.io/jmorganca/ollama:latest
 ###################xiaozhi-esp32-server#############
 #ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:latest
 #kalicyh/node:v18-alpine
