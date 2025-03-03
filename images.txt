@@ -1,7 +1,10 @@
+######################DeepSeek RAG Chatbot 3.0###
+python:3.11-buster
+ghcr.io/jmorganca/ollama:latest
 ###################xiaozhi-esp32-server#############
 #ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:latest
-kalicyh/node:v18-alpine
-kalicyh/poetry:v3.10_xiaozhi
+#kalicyh/node:v18-alpine
+#kalicyh/poetry:v3.10_xiaozhi
 ###################DeepSeek##################
 ##deepseek-r1:1.5b
 #deepseek-ai/deepseek-r1-7b-chat
