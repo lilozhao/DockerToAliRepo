@@ -1,5 +1,7 @@
+####CosyVoice的docker#####
+nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
 ####milvusdb向量数据库#########
-milvusdb/milvus:v2.3.0
+#milvusdb/milvus:v2.3.0
 ################DeepClaude################
 #rust:latest
 #debian:bookworm-slim
