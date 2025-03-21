@@ -1,5 +1,9 @@
+######HeyGem 数字人####
+guiji2025/fun-asr
+guiji2025/fish-speech-ziming
+guiji2025/heygem.ai
 ####CosyVoice的docker#####
-nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
+#nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
 ####milvusdb向量数据库#########
 #milvusdb/milvus:v2.3.0
 ################DeepClaude################
