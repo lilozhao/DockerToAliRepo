@@ -1,8 +1,10 @@
+#######markitdown-mcp###############
+markitdown-mcp:latest
 ######HeyGem 数字人####
 #fishaudio/fish-speech:latest-dev
 #registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-cpu-0.4.6
 #registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.9
-guiji2025/fish-speech-ziming:1.0.39
+#guiji2025/fish-speech-ziming:1.0.39
 #guiji2025/fun-asr:1.0.1
 #guiji2025/heygem.ai
 ####CosyVoice的docker#####
