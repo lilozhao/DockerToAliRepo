@@ -1,5 +1,7 @@
+######8n8#############
+docker.n8n.io/n8nio/n8n
 #######markitdown-mcp###############
-markitdown-mcp:latest
+#markitdown-mcp:latest
 ######HeyGem 数字人####
 #fishaudio/fish-speech:latest-dev
 #registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-cpu-0.4.6
