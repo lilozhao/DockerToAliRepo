@@ -1,9 +1,9 @@
 #############linux的试点下载rpm包#######
-rhel:6
-rhel:7
+#rhel:6
+#rhel:7
 centos:7
 centos:8
-centos:7.8
+#centos:7.8
 #############coze-stadio##############
 #mysql:8.4.5
 #bitnami/redis:8.0
