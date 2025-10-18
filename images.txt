@@ -1,5 +1,4 @@
 #############linux的试点下载rpm包#######
-registry.access.redhat.com/rhel8
 registry.access.redhat.com/rhel6
 #registry.access.redhat.com/rhel7
 #centos:7
