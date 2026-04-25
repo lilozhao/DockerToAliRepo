@@ -1,5 +1,8 @@
+ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:server_latest
+ghcr.io/xinnan-tech/xiaozhi-esp32-server
+#ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:latest
 ###############openclaw###############
-justlikemaki/openclaw-docker-cn-im:latest
+#justlikemaki/openclaw-docker-cn-im:latest
 #node:22-bookworm
 #############linux的试点下载rpm包#######
 #registry.access.redhat.com/rhel6
