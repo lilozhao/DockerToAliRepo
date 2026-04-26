@@ -1,5 +1,5 @@
-ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:server_latest
-ghcr.io/xinnan-tech/xiaozhi-esp32-server
+ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server
+#ghcr.io/xinnan-tech/xiaozhi-esp32-server
 #ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:latest
 ###############openclaw###############
 #justlikemaki/openclaw-docker-cn-im:latest
