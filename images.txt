@@ -1,8 +1,10 @@
-higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/hiclaw-manager:latest
-higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/hiclaw-worker:latest
-higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/hiclaw-copaw-worker:latest
-higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/hiclaw-hermes-worker:latest
-higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/hiclaw-embedded:latest
+nousresearch/hermes-agent:latest
+####################hiclaw work###############################
+#higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/hiclaw-manager:latest
+#higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/hiclaw-worker:latest
+#higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/hiclaw-copaw-worker:latest
+#higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/hiclaw-hermes-worker:latest
+#higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/hiclaw-embedded:latest
 ###############xiaozhi-esp32#############################
 #ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server
 #ghcr.io/xinnan-tech/xiaozhi-esp32-server
