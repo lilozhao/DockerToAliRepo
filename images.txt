@@ -1,4 +1,5 @@
-nousresearch/hermes-agent:latest
+pi-agent:latest
+#nousresearch/hermes-agent:latest
 ####################hiclaw work###############################
 #higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/hiclaw-manager:latest
 #higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/hiclaw-worker:latest
